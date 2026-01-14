@@ -82,7 +82,7 @@ export default function BrazilCountdown() {
                   {timeLeft.hours}
                 </div>
                 <div className="text-sm md:text-base text-white/80 uppercase tracking-wider">
-                  Horas
+                  Hrs
                 </div>
               </div>
 
@@ -91,7 +91,7 @@ export default function BrazilCountdown() {
                   {timeLeft.minutes}
                 </div>
                 <div className="text-sm md:text-base text-white/80 uppercase tracking-wider">
-                  Minutos
+                  Min
                 </div>
               </div>
 
@@ -100,7 +100,7 @@ export default function BrazilCountdown() {
                   {timeLeft.seconds}
                 </div>
                 <div className="text-sm md:text-base text-white/80 uppercase tracking-wider">
-                  Segundos
+                  Seg
                 </div>
               </div>
             </div>
